@@ -9,4 +9,4 @@
   </a>
 </div>
 
-<p>&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=ashishps1&show_icons=true&locale=en](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aimhigh&include_orgs=true&show_icons=true&theme=nightowl&locale=en)https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aimhigh&include_orgs=true&show_icons=true&theme=nightowl&locale=en" alt="aimhigh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=aimhigh&include_orgs=true&show_icons=true&theme=nightowl&locale=en" alt="aimhigh" /></p>
